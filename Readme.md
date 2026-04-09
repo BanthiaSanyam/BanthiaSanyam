@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Sanyam!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%2B+ML+Enthusiast;Open+Source+Contributor;Hackathon+Learner;Pythonic+Problem+Solver;Always+Building+Something" alt="Typing SVG" />
+</p>
+---
+
 ## 📜 About Me
 
 - 🎓 Class 12 (2022) → Took a **drop year for JEE** → Scored **94 percentile**
