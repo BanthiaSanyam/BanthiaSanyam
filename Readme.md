@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sanyam!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%2B+ML+Enthusiast;Open+Source+Contributor;Hackathon+Learner;Pythonic+Problem+Solver;Always+Building+Something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%2B+ML+Enthusiast;Hackathon+Learner;Problem+Solver;Always+Building+Something" alt="Typing SVG" />
 </p>
 ---
 
 ## 📜 About Me
 
-- 🎓 Class 12 (2022) → Took a **drop year for JEE** → Scored **94 percentile**
+- 
 - 📍 Joined **Bennett University (Times of India Group)** in 2023  
 - 💻 **B.Tech in CSE with specialization in AI & ML**
 
 
-🔭 I’m currently working on  <br>Building scalable full-stack applications and AI systems including RAG-based learning assistants  and GenAI-powered tools.<br>👯 I’m looking to collaborate on <br>SDE projects (backend, scalable systems) and AI/ML or GenAI applications involving LLMs, real-world datasets, and intelligent automation.<br>🌱 I’m currently learning  <br>Data Structures & Algorithms, Deep Learning (PyTorch), and advanced GenAI concepts like RAG, agents, and LLM optimization.<br>⚡ Fun fact  <br>I approach coding like a strategy game. Build, break, optimize, repeat until it scales.
+- 🔭 I’m currently working on  <br>Building scalable full-stack applications and AI systems including RAG-based learning assistants  and GenAI-powered tools.<br>
+- 👯 I’m looking to collaborate on <br>SDE projects (backend, scalable systems) and AI/ML or GenAI applications involving LLMs, real-world datasets, and intelligent              automation.<br>
+- 🌱 I’m currently learning  <br>Data Structures & Algorithms, Deep Learning (PyTorch), and advanced GenAI concepts like RAG, agents, and LLM              optimization.<br>
+- ⚡ Fun fact  <br>I approach coding like a strategy game. Build, break, optimize, repeat until it scales.
 
 
 ## 🌐 Socials:
