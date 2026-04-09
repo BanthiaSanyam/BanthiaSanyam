@@ -8,10 +8,10 @@
 
 - 📍 Joined **Bennett University (Times of India Group)** in 2023  
 - 💻 **B.Tech in CSE with specialization in AI & ML**
-- 🔭 I’m currently working on  <br>Building scalable full-stack applications and AI systems including RAG-based learning assistants  and GenAI-powered tools.
-- 👯 I’m looking to collaborate on <br>SDE projects (backend, scalable systems) and AI/ML or GenAI applications involving LLMs, real-world datasets, and intelligent          automation.
-- 🌱 I’m currently learning  <br>Data Structures & Algorithms, Deep Learning (PyTorch), and advanced GenAI concepts like RAG, agents, and LLM optimization.
-- ⚡ Fun fact  <br>I approach coding like a strategy game. Build, break, optimize, repeat until it scales.
+- 🔭 I’m currently working on Building scalable full-stack applications and AI systems including RAG-based learning assistants  and GenAI-powered tools.
+- 👯 I’m looking to collaborate on SDE projects (backend, scalable systems) and AI/ML or GenAI applications involving LLMs, real-world datasets, and intelligent          automation.
+- 🌱 I’m currently learning Data Structures & Algorithms, Deep Learning (PyTorch), and advanced GenAI concepts like RAG, agents, and LLM optimization.
+- ⚡ Fun fact I approach coding like a strategy game. Build, break, optimize, repeat until it scales.
 
 
 
@@ -20,11 +20,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanyam-banthia-28a1a5338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyambanthia2005@gmail.com) 
-
+<br>
+<br>
 > *"Every expert was once a beginner who refused to give up."*
 
 Currently building. Forever learning. Always improving. 🌱
 
 [![](https://visitcount.itsvg.in/api?id=BanthiaSanyam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
